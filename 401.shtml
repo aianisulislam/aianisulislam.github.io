@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lost!</title>
+    <link rel="shortcut icon" type="image/png" href="img/logo-square.png" />
+</head>
+
+<body style="margin: 0px;">
+    <section style="background: linear-gradient(#8a2ea6, #e26abf);width: 100% ;height: 100%;position: absolute">
+        <div align="center" style="margin: auto;font-family: sans-serif;">
+            <a style=" color: white; text-decoration: none" href="https://anisul.in"><img src="/img/lost.png" style="height: 60vh"/>
+             <h1>Hey there! I'm 404 and you're lost.<br>Click on me to get home.</h1></a> 
+        </div>
+    </section>
+</body>
+</html>
